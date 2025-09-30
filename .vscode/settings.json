@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "block.h": "c",
+        "menu_interface.h": "c",
+        "menu_core.h": "c"
+    }
+}

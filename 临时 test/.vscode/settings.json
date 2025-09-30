@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "driver_xxx.h": "c",
+        "menucore.h": "c"
+    }
+}
